@@ -10,9 +10,9 @@ public class Main {
         float[] arr = new float[size];
 
         // 2. Заполняют этот массив единицами.
-        /*for (int i = 0; i < arr.length; i++) {
+        /* for (int i = 0; i < arr.length; i++) {
             arr[0] = 1;
-        }*/
+        } */
         Arrays.fill(arr, 1.0f);
 
         return arr;
